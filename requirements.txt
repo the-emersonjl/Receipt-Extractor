@@ -1,0 +1,6 @@
+# iFood Receipt Extractor - Dependências Python
+# Instale com: pip install -r requirements.txt
+
+Pillow>=9.0.0          # Processamento de imagens
+pandas>=1.3.0          # Manipulação de dados e exportação CSV
+pytesseract>=0.3.8     # Interface Python para Tesseract OCR
