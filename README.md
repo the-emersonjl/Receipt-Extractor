@@ -1,4 +1,4 @@
-# iFood Receipt Extractor 📸💵
+# iFood Receipt Extractor
 
 Extrator automático de informações de recibos do iFood usando Reconhecimento Óptico de Caracteres (OCR).
 
